@@ -656,5 +656,38 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "id1",
+    image: "images/products/2010-world-cup-jabulani-official-match-ball.png",
+    name: "Jabulani World Cup 2010 Match Ball",
+    rating: {
+      stars: 5,
+      count: 10947
+    },
+    priceCents: 25000,
+    keywords: [
+      "football",
+      "matchball",
+      "world cup"
+    ],
+  },
+  {
+    id: "id2",
+    image: "images/products/model_y_performance.png",
+    name: "Tesla Model Y Performance White",
+    rating: {
+      stars: 4.5,
+      count: 23
+    },
+    priceCents: 6099000,
+    keywords: [
+      "tesla",
+      "modely",
+      "performance",
+      "EV",
+      "electric",
+      "vehicle"
+    ]
   }
 ];
